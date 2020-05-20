@@ -47,4 +47,4 @@ client.on('message', msg=> {
     msg.reply('\r\nIsle of Dawn: 5 \r\nDaylight Prairie: 13 \r\nHidden Forest: 16 \r\nValley of Triumph: 11 \r\nGolden Wasteland: 16 \r\nVault of Knowledge: 8 \r\nEye of Eden: 10 \r\nOrbit: 1');
   }
 });
-client.login(process.env.NzEyMzE4ODQ4MzA0NTQ1ODUy.XsSk3w.zqLyxfMfEbVTLOj1r87NuamgFE8);
+client.login(process.env.Oqklpbo5_7N39gxze35R52RzWYNCInY8);
